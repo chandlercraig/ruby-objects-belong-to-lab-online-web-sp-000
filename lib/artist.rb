@@ -6,3 +6,5 @@ class Artist
 end
 
 prince = Artist.new
+
+prince.name = "Prince"
