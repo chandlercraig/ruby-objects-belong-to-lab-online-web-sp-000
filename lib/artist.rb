@@ -5,4 +5,4 @@ class Artist
 
 end
 
-prince = Artist.new("Prince")
+prince = Artist.new
